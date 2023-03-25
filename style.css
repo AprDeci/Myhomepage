@@ -228,4 +228,7 @@ body{
     .home-img{
         display: none;
     }
+    .home{
+        padding: 70px 10% 0;
+    }
 } 

@@ -1,7 +1,7 @@
 // 设置 rem 函数
 function setRem () {
     //  PC端
-    console.log('非移动设备')
+    //console.log('非移动设备')
     // 基准大小
     baseSize = 16; 
     let baseApp = baseSize / 375; // 表示375的设计图,使用100PX的默认值
